@@ -11,7 +11,7 @@
     <img src="https://github.com/BizTecBritain/BizTecBritain/blob/main/BizTec.png" alt="Logo" width="580" height="300">
   </a>
 
-  <h3 align="center">Wordle Solver</h3>
+  <h3 align="center">SuperXO</h3>
 
   <p align="center">
     A React page that allows you to play Super Tic Tac Toe
@@ -75,6 +75,11 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 * Install Node.js from the website and install all dependencies for it
+* * Install git
+  ```
+   $ sudo apt-get update
+   $ sudo apt-get install git
+  ```
 
 ### Installation
 
